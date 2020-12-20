@@ -1,0 +1,3 @@
+environment.ts
+environment.*.ts
+!environment*.sample.ts

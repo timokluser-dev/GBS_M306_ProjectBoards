@@ -1,0 +1,18 @@
+.toolbar-spacer {
+    flex: 1 1 auto;
+}
+
+a.title {
+    color: white;
+}
+
+.container {
+    margin-top: 50px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    width: auto !important;
+}
+
+[ng-reflect-router-link] {
+    cursor: pointer;
+}

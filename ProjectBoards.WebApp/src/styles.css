@@ -1,0 +1,21 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+/* #region bootstrap-reboot overrides */
+
+a:hover {
+    color: unset;
+    text-decoration: unset;
+}
+
+
+/* #endregion bootstrap-reboot overrides */
+
+
+/* #region global style */
+
+text[ng-reflect-count-prefix^="Total"] {
+    display: none;
+}
+
+
+/* #endregion global style */
